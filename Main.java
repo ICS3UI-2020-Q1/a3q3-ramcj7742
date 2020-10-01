@@ -33,7 +33,8 @@ public class Main {
        break;
       case "F":
        System.out.println("This is between 0% and 49%");
-       default:
+       break;
+      default:
        System.out.println("invalid character, make sure letter is uppercase");
        
 
